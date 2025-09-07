@@ -27,7 +27,8 @@ int main() {
     }
 
     printf("Largest number is %d\n", largest);
-    printf("Thank you for using Number Comparer\nMade By Shantanu\n");
+    printf("Thank You for using Number Comparer\nMade By Shantanu\n");
 
     return 0;
 }
+
